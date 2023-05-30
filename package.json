@@ -15,6 +15,7 @@
 		"react-dom": "^18.2.0",
 		"react-router-dom": "6.4.1",
 		"sass": "^1.55.0",
+		"styled-components": "^5.3.10",
 		"vite": "^3.1.0",
 		"vite-plugin-svgr": "2.2.2"
 	},
